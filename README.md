@@ -10,7 +10,7 @@ Nós estamos usando:
 
 - ReactJS
 - Redux
-- Ant Design
+- Ant.d
 - Nivo
 
 ## Achou tranquilo? Legal! O processo de seleção será o seguinte: 
@@ -35,6 +35,8 @@ Nós estamos usando:
 - Você precisará criar um projeto usando o Create React APP chamado “Dashboard-SeuPrimeiroNome”
   
 - Com o projeto criado, use a lib Ant Design pra compor o layout abaixo:
+
+![react-test](https://preview.ibb.co/iya5xU/dashboard_para_teste.png)
 
 - Use o Nivo charts pra gerar esse gráfico, não precisa ficar idêntico, mas esperamos que seja consistente com o design do antD e exiba corretamente as informações;
 
