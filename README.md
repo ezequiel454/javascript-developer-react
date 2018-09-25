@@ -10,7 +10,7 @@ Nós estamos usando:
 
 - ReactJS
 - Redux
-- Ant.d
+- Ant Design
 - Nivo
 
 ## Achou tranquilo? Legal! O processo de seleção será o seguinte: 
