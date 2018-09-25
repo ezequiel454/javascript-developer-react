@@ -57,7 +57,7 @@ Nós estamos usando:
 - Se está fiel aos requesitos acima.
 
 
-Link para api: https://API.html
+Link para api: https://8ex6o98ek9.execute-api.us-west-2.amazonaws.com/2018/getStudent
 
 Se houver duvidas pode abrir issues e responderemos ASAP.
 
