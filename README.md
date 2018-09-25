@@ -37,6 +37,7 @@ Nós estamos usando:
 - Com o projeto criado, use a lib Ant Design pra compor o layout abaixo:
 
 ![react-test](https://preview.ibb.co/iya5xU/dashboard_para_teste.png)
+https://preview.ibb.co/iya5xU/dashboard_para_teste.png
 
 - Use o Nivo charts pra gerar esse gráfico, não precisa ficar idêntico, mas esperamos que seja consistente com o design do antD e exiba corretamente as informações;
 
