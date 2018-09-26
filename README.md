@@ -43,7 +43,7 @@ Nós estamos usando:
 
 - Forneceremos uma API aberta que você deve usar para pegar os dados necessários para compor a página.
   
-- Quando terminar commit tudo no fork que você fez, depois envie as seguintes informações para jobs@intellecfy.com com o assunto “FRONT-END - <Seu Nome>”:
+- Quando terminar commit tudo no fork que você fez, depois envie as seguintes informações para jobs@intellecfy.com com o assunto “FRONT-END - {Seu Nome}”:
 	- O endereço do seu teste
 	- Suas informações de contato, (nome, e-mail, WhatsApp/Telegram/Phone, LinkedIn)
 	- Seu CV
